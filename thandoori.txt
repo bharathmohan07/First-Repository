@@ -1,0 +1,2 @@
+hi,
+now I'm a untracked file.
